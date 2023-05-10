@@ -1,0 +1,31 @@
+
+.contenedor-testimonio{
+    width: 1170px;
+    height: 369px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-family: Lato, sans-serif;
+    font-size: 19.8px;
+    box-shadow: o 3px 13px 1px rgb(0 0 0 /9%);
+    background-color: #0a0a23;
+}
+.imagen-testimonio{
+    height: 100%;
+}
+.texto-testimonio{
+    padding: 40px;
+    
+}
+.nombre-testimonio{
+    font-size: 23.4px;
+    padding: 30px;
+   
+}
+.cargo-testimonio{
+    margin: 15px 0px 0px;
+    font-size: 23.4px;
+    
+}
